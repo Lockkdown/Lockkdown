@@ -6,8 +6,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-000000?style=flat&logo=codeium&logoColor=white)
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat&logo=openai&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-000000?style=flat&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-FF6B35?style=flat&logoColor=white)
 
 > Vibe coding my way through NLP, Agents, and whatever looks interesting.
 
