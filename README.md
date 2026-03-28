@@ -1,11 +1,13 @@
 # Hi, I'm Phúc (Lockdown) 👋
 
-🤖 AI/ML Engineer · ⚡ Vibe Coder 
+🇻🇳 Ho Chi Minh City | 🤖 AI/ML Engineer | ⚡ Vibe Coder
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![LLM](https://img.shields.io/badge/LLM_APIs-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-000000?style=flat&logo=codeium&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat&logo=openai&logoColor=white)
 
 > Vibe coding my way through NLP, Agents, and whatever looks interesting.
 
