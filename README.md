@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1" width="100%" />
+  <img src="https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1" width="80%" />
 </p>
 
-# Hi, I'm Phúc (Lockdown) 👋
+<h1 align="center">Hi, I'm Phúc (Lockdown) 👋</h1>
 
-🇻🇳 Ho Chi Minh City &nbsp;|&nbsp; 🎯 Frontend Developer in Training &nbsp;|&nbsp; 🚀 Future Fullstack + AI Engineer
+<p align="center">🇻🇳 Ho Chi Minh City &nbsp;|&nbsp; 🎯 Frontend Developer in Training &nbsp;|&nbsp; 🚀 Future Fullstack + AI Engineer</p>
 
 ---
 
@@ -26,7 +26,6 @@
 **Tools I use:**
 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-000000?style=flat&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
