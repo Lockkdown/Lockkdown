@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1" width="100%" />
+</p>
+
 # Hi, I'm Phúc (Lockdown) 👋
 
 🇻🇳 Ho Chi Minh City &nbsp;|&nbsp; 🎯 Frontend Developer in Training &nbsp;|&nbsp; 🚀 Future Fullstack + AI Engineer
