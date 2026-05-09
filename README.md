@@ -35,11 +35,11 @@
 ## 🗺️ The Road Ahead
 
 ```
-2025 → Frontend Intern         HTML / CSS / JS / TypeScript / React
-2026 → Fullstack Junior        Node.js / REST API / Database / Docker
-2027 → Deepen & Expand         System Design / Mobile / Cloud
-2028+ → My Tiny Startup        Build something real. Ship it.
-          + AI/ML re-entry     Apply ML where it actually matters
+2026 → Frontend Intern            HTML / CSS / JS / TypeScript / React
+2027 → Fullstack Junior           Node.js / REST API / Database / Docker
+2028 → Deepen & Expand            System Design / Mobile / Cloud
+2029 → My Tiny Startup            Build something real. Ship it.
+          + AI/ML + Freelancer    Apply ML where it actually matters
 ```
 
 > Frontend is just the first chapter. The goal is to be the person who can build anything.
