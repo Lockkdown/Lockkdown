@@ -8,8 +8,7 @@
 
 > *"Learn it for real, or don't learn it at all."*
 
-Currently in a **12-week intensive Frontend training program** — building from scratch with TypeScript + React, hands-on, line by line.  
-No shortcuts. No generated code I don't understand. Every concept earned, not borrowed.
+12-week intensive Frontend training program. TypeScript + React, from scratch — every concept earned, not borrowed.
 
 **The stack I'm grinding right now:**
 
@@ -23,9 +22,10 @@ No shortcuts. No generated code I don't understand. Every concept earned, not bo
 **Tools I use:**
 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-000000?style=flat&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -47,6 +47,33 @@ No shortcuts. No generated code I don't understand. Every concept earned, not bo
 
 - 🧪 [**MAD-Fact-Verification**](https://github.com/Lockkdown/MAD-Fact-Verification) — Multi-Agent Debate system for Vietnamese fact-checking. PLM router + heterogeneous LLM panel. Macro F1 = **0.8777**. *(Submitted to ICT2026)*
 - 🤖 [**TinyML-line-follower**](https://github.com/Lockkdown/TinyML-line-follower) — CNN on ESP32-S3. Trained & compared 5 lightweight models. Runs real-time on-chip, no PC needed.
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lockkdown&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lockkdown&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lockkdown&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lockkdown&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lockkdown&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lockkdown&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
