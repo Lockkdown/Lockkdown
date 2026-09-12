@@ -8,12 +8,6 @@
 
 ---
 
-## ⚔️ Current Mission — Frontend Mastery
-
-> *"Learn it for real, or don't learn it at all."*
-
-12-week intensive Frontend training program. TypeScript + React, from scratch — every concept earned, not borrowed.
-
 **The stack I'm grinding right now:**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -29,32 +23,10 @@
 
 ---
 
-## 🗺️ The Road Ahead
-
-```
-2026 → Frontend Intern            HTML / CSS / JS / TypeScript / React
-2027 → Fullstack Junior           Node.js / REST API / Database / Docker
-2028 → Deepen & Expand            System Design / Mobile / Cloud
-2029 → My Tiny Startup            Build something real. Ship it.
-          + AI/ML + Freelancer    Apply ML where it actually matters
-```
-
-> Frontend is just the first chapter. The goal is to be the person who can build anything.
-
----
-
 ## 🔬 Past Projects
 
 - 🧪 [**MAD-Fact-Verification**](https://github.com/Lockkdown/MAD-Fact-Verification) — Multi-Agent Debate system for Vietnamese fact-checking. PLM router + heterogeneous LLM panel. Macro F1 = **0.8777**. *(Submitted to ICT2026)*
 - 🤖 [**TinyML-line-follower**](https://github.com/Lockkdown/TinyML-line-follower) — CNN on ESP32-S3. Trained & compared 5 lightweight models. Runs real-time on-chip, no PC needed.
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lockkdown&theme=tokyo-night&hide_border=true&area=true" />
-</p>
 
 ---
 
